@@ -1,0 +1,14 @@
+D:\Work\testclassroomAPI\bin\Debug\netcoreapp2.2\testclassroomAPI.deps.json
+D:\Work\testclassroomAPI\bin\Debug\netcoreapp2.2\testclassroomAPI.runtimeconfig.json
+D:\Work\testclassroomAPI\bin\Debug\netcoreapp2.2\testclassroomAPI.runtimeconfig.dev.json
+D:\Work\testclassroomAPI\bin\Debug\netcoreapp2.2\testclassroomAPI.dll
+D:\Work\testclassroomAPI\bin\Debug\netcoreapp2.2\testclassroomAPI.pdb
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.csprojAssemblyReference.cache
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.csproj.CoreCompileInputs.cache
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.RazorAssemblyInfo.cache
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.RazorAssemblyInfo.cs
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.AssemblyInfoInputs.cache
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.AssemblyInfo.cs
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.RazorTargetAssemblyInfo.cache
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.dll
+D:\Work\testclassroomAPI\obj\Debug\netcoreapp2.2\testclassroomAPI.pdb
